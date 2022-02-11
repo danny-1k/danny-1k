@@ -8,6 +8,6 @@ Je
 - Up for learning interesting stuff
 
 
-![danny-1k's GitHub stats](https://github-readme-stats.vercel.app/api?username=danny-1k&theme=radical&show_icons=True)
+![danny-1k's GitHub stats](https://github-readme-stats.vercel.app/api?username=danny-1k&theme=radical&show_icons=True&count-private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danny-1k)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danny-1k&count-private=true)
